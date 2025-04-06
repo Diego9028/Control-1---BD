@@ -1,0 +1,6 @@
+1. Abrir CMD
+2.Cambiar directorio de la carpeta CD C:(Direccion carpeta con Scripts)
+3. Verificar que psql.exe este en el PATH del sistema
+4. Ejecutar runScript.bat 
+5. Base de datos creada
+6. Correr las consultas por separado
